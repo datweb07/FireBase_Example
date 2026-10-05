@@ -1,10 +1,10 @@
 <resources>
   <string name="app_name">Article Firebase</string>
   <string name="add_article">Thêm bài viết</string>
-  <string name="article_id">ID bài viết</string>
+  <string name="article_id">ID</string>
   <string name="article_title">Tiêu đề</string>
-  <string name="article_image_url">URL ảnh (https://…)</string>
-  <string name="article_description">Nội dung mô tả</string>
+  <string name="article_image_url">URL ảnh</string>
+  <string name="article_description">Nội dung</string>
   <string name="save_article">Lưu bài viết</string>
   <string name="show_articles">Xem danh sách bài viết</string>
   <string name="article_image">Ảnh bài viết</string>
