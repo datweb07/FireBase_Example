@@ -9,6 +9,7 @@
   <string name="show_articles">Xem danh sách bài viết</string>
   <string name="article_image">Ảnh bài viết</string>
   <string name="article_id_value">ID: %1$s</string>
+  <string name="article_view_value">Lượt xem: %1$d</string>
   <string name="loading_articles">Đang tải bài viết…</string>
   <string name="waiting_for_firestore">Đang chờ kết nối Firestore…</string>
   <string name="no_articles">Chưa có bài viết nào.</string>
@@ -19,4 +20,5 @@
   <string name="article_saved">Đã lưu bài viết.</string>
   <string name="save_failed">Không thể lưu: %1$s</string>
   <string name="load_failed">Không thể tải dữ liệu: %1$s</string>
+  <string name="view_increment_failed">Không cập nhật được lượt xem: %1$s</string>
 </resources>

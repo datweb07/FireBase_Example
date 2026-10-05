@@ -5,6 +5,7 @@ public class Article {
   private String title;
   private String image;
   private String description;
+  private long view = 0L;
 
   public Article() {
     // Firestore needs an empty constructor when converting a document to an object.
@@ -15,6 +16,7 @@ public class Article {
     this.title = title;
     this.image = image;
     this.description = description;
+    this.view = 0L;
   }
 
   public String getId() { return id; }
@@ -25,4 +27,6 @@ public class Article {
   public void setImage(String image) { this.image = image; }
   public String getDescription() { return description; }
   public void setDescription(String description) { this.description = description; }
+  public long getView() { return view; }
+  public void setView(long view) { this.view = view; }
 }

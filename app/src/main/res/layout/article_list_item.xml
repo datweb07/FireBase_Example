@@ -36,6 +36,13 @@
         android:minLines="2"
         android:textAppearance="@style/TextAppearance.Material3.TitleMedium"
         android:textStyle="bold" />
+
+      <TextView
+        android:id="@+id/tvArticleView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:textAppearance="@style/TextAppearance.Material3.BodySmall" />
     </LinearLayout>
   </LinearLayout>
 </LinearLayout>
