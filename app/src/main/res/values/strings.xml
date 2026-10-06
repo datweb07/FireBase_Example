@@ -21,4 +21,6 @@
   <string name="save_failed">Không thể lưu: %1$s</string>
   <string name="load_failed">Không thể tải dữ liệu: %1$s</string>
   <string name="view_increment_failed">Không cập nhật được lượt xem: %1$s</string>
+  <string name="detail_load_failed">Không thể cập nhật bài viết realtime: %1$s</string>
+  <string name="article_no_longer_exists">Bài viết này không còn tồn tại trên Firestore.</string>
 </resources>
